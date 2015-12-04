@@ -13,7 +13,7 @@ public class Main {
 
     //访问队列所有元素方法
     public static void scanQueue(Queue queue) {
-        Object o = queue.peek();
+        Object o = queue.poll();
         while (o != null) {
             System.out.print(o);
             o = queue.poll();

@@ -113,13 +113,13 @@ public class ThreadTest01 {
         public Task() {
             try {
                 bw1 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(new File(
-                        "/lib/A.txt"))));
+                        "lib/A.txt"))));
                 bw2 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(new File(
-                        "/lib/B.txt"))));
+                        "lib/B.txt"))));
                 bw3 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(new File(
-                        "/lib/C.txt"))));
+                        "lib/C.txt"))));
                 bw4 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(new File(
-                        "/lib/D.txt"))));
+                        "lib/D.txt"))));
             } catch (Exception e) {
                 e.printStackTrace();
             }

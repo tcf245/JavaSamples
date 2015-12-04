@@ -8,23 +8,26 @@ package sort;
  * 三种排序算法
  */
 public class SortTest {
-
-
     public static int arr[];
+
+    public static void main(String[] args) {
+        arr = new int[]{61, 17, 29, 22, 34, 60, 72, 21, 50, 1, 62};
+        bubbleSort(arr);
+        selectionSort(arr);
+        quickSort(0,arr.length-1);
+    }
 
     public static void swap(int i,int j){
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
     }
-
     public static void print(int arr[]){
         for (int i= 0 ;i < arr.length ; i++){
             System.out.print(arr[i]+",");
         }
             System.out.println("");
     }
-
     public static void bubbleSort(int [] arr){
         int i,j,len = arr.length;
         for (i = 0; i < len - 1; i++ ){
@@ -37,7 +40,6 @@ public class SortTest {
         System.out.print("Bubble_Sort------");
         print(arr);
     }
-
     public static void selectionSort(int []arr){
         int i,j,max,len = arr.length;
         for ( i = 0 ; i < len -1 ; i++){
@@ -77,11 +79,4 @@ public class SortTest {
         print(arr);
     }
 
-    public static void main(String[] args) {
-        arr = new int[]{61, 17, 29, 22, 34, 60, 72, 21, 50, 1, 62};
-        bubbleSort(arr);
-        selectionSort(arr);
-        quickSort(0,arr.length-1);
-
-    }
 }
