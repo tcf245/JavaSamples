@@ -5,6 +5,7 @@ import java.io.FilenameFilter;
 
 /**
  * Created by pc9507 on 2015/12/4.
+ * 设置过滤器，使得 操作只对.java文件生效
  */
 public class Filter implements FilenameFilter{
     String extent;

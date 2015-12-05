@@ -4,6 +4,7 @@ import java.io.*;
 
 /**
  * Created by pc9507 on 2015/12/4.
+ *
  * 当创建一个FileInputStream或者FileOutputStream流实例时
  * 必须指定文件路径和文件名
  * 对象被创建时，流就会打开，用完之后必须关闭流，以释放资源，完成读写操作
