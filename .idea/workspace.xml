@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b1d0fd0-eda7-4bd9-bf13-74a280d1fe8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/inetaddress/InetAddressTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/interruptible/InterruptibleSocketFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/interruptible/TestServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/interruptible/TestServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/server/EchoServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/server/ThreadedEchoHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/server/ThreadedEchoServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/socket/SoketTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaSamples/io/bufferedreaderwriter/Main.class" afterPath="$PROJECT_DIR$/out/production/JavaSamples/io/bufferedreaderwriter/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaSamples/io/file/Filter.class" afterPath="$PROJECT_DIR$/out/production/JavaSamples/io/file/Filter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaSamples/io/fileinputstream/CopyFile.class" afterPath="$PROJECT_DIR$/out/production/JavaSamples/io/fileinputstream/CopyFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6b1d0fd0-eda7-4bd9-bf13-74a280d1fe8d" name="Default" comment="" />
     <list id="b9e86b4c-3cf3-405e-997b-d112f19cb99a" name="Rejected commit: Default" comment="" />
     <ignored path="JavaSamples.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,36 +32,12 @@
       <file leaf-file-name="InterruptibleSocketFrame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/interruptible/InterruptibleSocketFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55284554">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.6039604">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/interruptible/TestServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/interruptible/TestServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#6695#6696#0" expanded="true" />
+                <element signature="e#6736#6737#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -434,9 +397,9 @@
         <option value="$PROJECT_DIR$/src/main/java/net/server/EchoServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/server/ThreadedEchoServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/server/ThreadedEchoHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/interruptible/TestServerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/interruptible/TestServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/interruptible/InterruptibleSocketFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/interruptible/TestServerHandler.java" />
       </list>
     </option>
   </component>
@@ -624,27 +587,7 @@
       <recent name="C:\Users\pc9507\Documents\GitHub\JavaSamples\src\main\java\thread" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadedEchoServer">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="io.bufferedreaderwriter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="io.bufferedreaderwriter.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaSamples" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.InterruptibleSocketFrame">
     <configuration default="false" name="SoketTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -713,6 +656,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="net.server.ThreadedEchoServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaSamples" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="InterruptibleSocketFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.interruptible.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="net.interruptible.InterruptibleSocketFrame" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1136,19 +1099,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SoketTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InetAddressTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.EchoServer" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ThreadedEchoServer" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SoketTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InetAddressTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.EchoServer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ThreadedEchoServer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.InterruptibleSocketFrame" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreadedEchoServer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SoketTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EchoServer" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InetAddressTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.InterruptibleSocketFrame" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ThreadedEchoServer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SoketTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EchoServer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.InetAddressTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1165,12 +1128,12 @@
       <workItem from="1449125221592" duration="12086000" />
       <workItem from="1449194442507" duration="20296000" />
       <workItem from="1449275583363" duration="14203000" />
-      <workItem from="1449367410842" duration="9797000" />
+      <workItem from="1449367410842" duration="13509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56382000" />
+    <option name="totallyTimeSpent" value="60094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
@@ -1183,7 +1146,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32662538" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32662538" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24810319" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1609,34 +1572,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/interruptible/TestServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/interruptible/TestServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/interruptible/InterruptibleSocketFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55284554">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.6039604">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#6695#6696#0" expanded="true" />
+            <element signature="e#6736#6737#0" expanded="true" />
           </folding>
         </state>
       </provider>
